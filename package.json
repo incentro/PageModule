@@ -1,0 +1,25 @@
+{
+  "name": "page-module",
+  "version": "1.0.0",
+  "description": "Page module that can be used to get sizes and parameters easily.",
+  "main": "src/Page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incentro/PageModule.git"
+  },
+  "keywords": [
+    "page",
+    "parameters",
+    "height",
+    "sizes"
+  ],
+  "author": "Kasper Reijnders <kasper.reijnders@incentro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incentro/PageModule/issues"
+  },
+  "homepage": "https://github.com/incentro/PageModule#readme"
+}
