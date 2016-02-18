@@ -13,7 +13,7 @@ $ npm install page-module --save
 PageModule is an EcmaScript 2015 module. Use it as follows:
 
 ```
-import Page from 'PageModule';
+import Page from 'page-module';
 
 Page.getTopOfWindow();
 ```
