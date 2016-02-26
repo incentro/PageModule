@@ -34,5 +34,5 @@ The api contains the following functions:
 ## Build
 
 ```
-$npm run-script build
+$ npm run-script build
 ```
