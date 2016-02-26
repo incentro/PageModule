@@ -4,7 +4,7 @@
   "description": "Page module that can be used to get sizes and parameters easily.",
   "main": "src/Page.js",
   "scripts": {
-    "build": "mkdirp build && browserify src/Page.js -t babelify --outfile dist/Page.js"
+    "build": "mkdirp dist && browserify src/Page.js -t babelify --outfile dist/Page.js"
   },
   "repository": {
     "type": "git",
