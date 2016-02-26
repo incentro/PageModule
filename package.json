@@ -1,6 +1,6 @@
 {
   "name": "page-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Page module that can be used to get sizes and parameters easily.",
   "main": "src/Page.js",
   "scripts": {
